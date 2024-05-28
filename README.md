@@ -13,7 +13,7 @@ Write an API for Hall Booking Application using node JS and its framework Expres
 - **Error 404:** Handles requests for non-existent endpoints.
 
 **Render Deployment**
-Website URL: [Hall Booking]()
+Website URL: [Hall Booking](https://hall-booking-tyfl.onrender.com/)
 
 **API Documentation**
 [Click here to view API Documentation](https://documenter.getpostman.com/view/35311314/2sA3QsBYN7)
@@ -46,3 +46,21 @@ npm run dev
 ```
 
 The server will start on port `3000` by default. You can access the application routes in your browser.
+
+**Screenshots**
+
+Home Page
+![[Home.png]]
+
+Create a Room
+![[create-room.png]]
+Find a Room
+![[find-room.png]]
+
+Book a Room![[book-room.png]]
+
+Get all room with booked data![[room-info.png]]
+
+Get all customer with booked data![[customers-info.png]]
+
+Customer Data![[customer.png]]
